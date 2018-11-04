@@ -1,0 +1,17 @@
+
+					Others Menu List
+				...............................
+
+
+				Name			Price
+			.................	....................
+
+		1.	Eye-Brow Plug	..........	40tk
+		
+		2.	menicure	..........	200tk
+		
+		3.	pedicure	..........	200tk
+
+		4.	mehedi		..........	200tk
+
+		5.	Wearing Sari	..........	200tk	
